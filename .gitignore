@@ -1,0 +1,24 @@
+Student-Chat-FrontEnd/node_modules
+Student-Chat-FrontEnd/.pnp
+Student-Chat-FrontEnd/.pnp.js
+Student-Chat-FrontEnd/.env
+
+# testing
+Student-Chat-FrontEnd//coverage
+
+# production
+Student-Chat-FrontEnd//build
+
+# misc
+Student-Chat-FrontEnd/.DS_Store
+Student-Chat-FrontEnd/.env.local
+Student-Chat-FrontEnd/.env.development.local
+Student-Chat-FrontEnd/.env.test.local
+Student-Chat-FrontEnd/.env.production.local
+
+Student-Chat-FrontEnd/npm-debug.log*
+Student-Chat-FrontEnd/yarn-debug.log*
+Student-Chat-FrontEnd/yarn-error.log*
+
+Student-Chat-BackEnd/node_modules
+Student-Chat-BackEnd/.env
